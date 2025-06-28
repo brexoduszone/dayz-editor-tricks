@@ -1,4 +1,7 @@
 # dayz-editor-tricks
 
-## Sessão destinada a scripts e configurações do dayz editor. 
-## Session intended for dayz editor scripts and configurations.
+## PT-BR
+Sessão destinada a scripts e configurações do dayz editor. 
+
+## ENG 
+Session intended for dayz editor scripts and configurations.
